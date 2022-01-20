@@ -11,10 +11,12 @@ Quick Access Home Assistant - Firefox Addon
 5. Enjoy Using It.
 
 ## Screenshots
-Addon's Config
+### Addon's Configuration Page
+
 ![https://cdn.svarun.dev/gh/varunsridharan/addon-firefox-home-assistant/screenshot1.jpg](https://cdn.svarun.dev/gh/varunsridharan/addon-firefox-home-assistant/screenshot1.jpg)
 
-Addon's Usage
+### Addon's Frontend View
+
 ![https://cdn.svarun.dev/gh/varunsridharan/addon-firefox-home-assistant/screenshot2.gif](https://cdn.svarun.dev/gh/varunsridharan/addon-firefox-home-assistant/screenshot2.gif)
 
 ---
